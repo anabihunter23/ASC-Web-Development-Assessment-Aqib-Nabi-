@@ -1,0 +1,87 @@
+
+body{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+}
+
+.images{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 55%;
+}
+
+.paras{
+  text-align: center;
+  margin: 250px;
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
+
+h1{
+    text-align:center;
+    color: rgb(255, 17, 0);
+    font-size: 70px;
+}
+
+#pic1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+}
+
+h2{
+    color: rgb(0,0,205);
+    text-align: left;
+    font-size: 45px;
+    margin-left: 250px;
+}
+
+#para1{
+    text-align: right;
+    margin-right: 250px;
+}
+
+#pic3{
+    width: 60%;
+}
+
+#pic4{
+    width: 45%;
+}
+
+#pic5{
+    width: 55%;
+}
+
+#para5{
+    text-align: center;
+    margin: auto;
+    color: rgb(255, 17, 0);
+}
+
+#para6{
+    text-align: center;
+    margin: auto;
+    color: rgb(255, 17, 0);
+}
+
+#para7{
+    text-align: left;
+    margin-left: 300px;
+    font-size: 20px;
+}
+
+.links{
+    display: block;
+    text-align: right;
+    margin-right: 300px;
+    font-size: 20px;
+}
+
+#para8{
+    text-align: left;
+    font-size: 15px;
+}
